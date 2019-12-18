@@ -1,0 +1,42 @@
+![alt text](https://pbs.twimg.com/media/DQY9YCeVQAEuxXn.png)
+
+# Digital Ocean Promo Coupon Code $35 / $100 1 Year Free Trial
+
+**1) Get $35 / $25 / $20 / $10 free DigitalOcean Credit.**
+
+**2) Get DigitalOcean 1 Year Free Trial.**
+
+**3) Get $100 Credit For 60 Days.**
+  **[$100 Free Credits](https://m.do.co/c/eb4a65f94929)**
+
+## Steps To Get Free Credit
+
+1. First open this **[link](https://m.do.co/c/eb4a65f94929)** and **Sign Up** to get your **$10 credit.**
+2. While filling your billing info, click on **"Have a Promo Code?"** at the bottom of the page.
+3. Enter any one of the below codes to get extra credit: 
+
+- `CodeAnywhere10`
+- `LOWENDBOX`
+- `CODEANYWHERE`
+- `DOPRODUCT15`
+- `DO10`
+- `ALLSSD10`
+- `WP10`
+- `DROPLET10`
+- `BITNAMI`
+- `DEPLOY10`
+- `ACTIVATE10`
+- `DONEWS`
+- `FRANKFURT`
+
+From 1st step you will get your first $10 credit and by using additional promo codes you can get up to $35 of total credits.
+
+Note: Some codes only give more credit on higher plans.
+
+Note: If your code doesn't work then open a ticket and your problem should be solved.
+
+## Steps To Get 1 Year Free Trial
+
+1. Open this **[link](https://m.do.co/c/eb4a65f94929)** and SignUp for **[Student Developer Pack](https://education.github.com/pack).**
+2. After you complete the SignUp process you will get a promo code.
+3. Use that code while signing up for DigitalOcean to get your $50 credit.
